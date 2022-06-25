@@ -1,9 +1,13 @@
-# Introduction
+# This notebook is owned by: Reshiban
 
-This repository is made for people who want to start to dev in **C/C++** through Nintendo Switch homebrew dev.<br>
-(firstly made for myself, to keep the trace of what I learnt, but why not sharing this publicly :p)<br>
+**Welcome to my notebook about Nintendo Switch development !**<br>
+This book is made for myself, to keep a trace of my work-in-progress knowledge and some useful templates.<br>
 <br>
+If anyone find this notebook, fell free to use it however you want.<br>
+
 # Status
 
-It is empty for now, that's the start of the project...<br>
-Please considere it like a notebook
+The book just started, there are no many things for now...<br>
+
+# Chapters
+- [I - ENVIRONMENT](./notebook/ENVIRONMENT.md)
