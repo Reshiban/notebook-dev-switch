@@ -1,13 +1,16 @@
-# This notebook is owned by: Reshiban
+# 🏷 This notebook is owned by: Reshiban
 
-**Welcome to my notebook about Nintendo Switch development !**<br>
-This book is made for myself, to keep a trace of my work-in-progress knowledge and some useful templates.<br>
+**Welcome to my [notebook](../../) about Nintendo Switch development !** 📕<br>
+This book is made for myself, to keep a trace of my work-in-progress knowledges and some useful templates.<br>
 <br>
-If anyone find this notebook, fell free to use it however you want.<br>
+If anyone find this notebook, fell free to use it however you want. ✍<br>
+<br>
 
-# Status
-
-The book just started, there are no many things for now...<br>
-
-# Chapters
+# 📖 Chapters
 - [I - ENVIRONMENT](./notebook/ENVIRONMENT.md)
+- ...
+
+
+# ✅ Status
+
+The book just started, there are only few pages for now...<br>
