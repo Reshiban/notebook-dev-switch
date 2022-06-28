@@ -72,7 +72,8 @@ It's recommended because:<br>
 
 ## CFW (Atmosphère)
 
+-------------------------
 
-TODO:
--Complete devkitPro, Switch emulator, CFW
+**TODO:**<br>
+-Complete devkitPro, Switch emulator, CFW<br>
 -Find VM infos for Mac OS
