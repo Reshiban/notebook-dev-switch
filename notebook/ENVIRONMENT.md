@@ -36,6 +36,7 @@ Tasks covered by the computer:<br>
 ## OS (Windows, ~~Mac OS~~, Linux)
 
 You **can** use any of these 3 operating systems, since you can **dev** and **build** on all of them.<br>
+Btw, that's IMPOSSIBLE to **test** homebrews on Mac OS (no emulators), except if you have a VM or Nintendo Switch.<br>
 <br>
 Operating Systems:
 - **Windows** [Recommended]
@@ -70,3 +71,8 @@ It's recommended because:<br>
 -you need to own a Nintendo Switch to play copyrighted contents on emulators, since you need Switch keys to decrypt games (legaly obtainable by dumping them with [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) from your own device)
 
 ## CFW (Atmosphère)
+
+
+TODO:
+-Complete devkitPro, Switch emulator, CFW
+-Find VM infos for Mac OS
