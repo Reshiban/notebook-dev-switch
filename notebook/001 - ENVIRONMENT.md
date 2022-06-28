@@ -60,6 +60,8 @@ It's **RECOMMENDED** to use it (if that's your actual OS), since the community m
 
 ## devkitPro
 
+[devkitPro](https://devkitpro.org/) is a collection of GNU compilers with additional tools and libs, to dev and build for console.<br>
+
 ## Switch emulator (Yuzu, Ryujinx...)
 
 # Nintendo Switch [recommended]
