@@ -1,4 +1,14 @@
-# ENVIRONMENT.md
+# I - ENVIRONMENT.md
+
+# 📖 Chapters
+- [Presentation](#presentation)
+  - [You'll need](#youll-need)
+- [Computer [needed]](#computer-needed)
+  - [OS (Windows, ~~Mac OS~~, Linux)](#os-windows-mac-os-linux)
+  - [devkitPro](#devkitpro)
+  - [Switch Emulator (Yuzu, Ryujinx...)](#switch-emulator-yuzu-ryujinx)
+- [Nintendo Switch [recommended]](#nintendo-switch-recommended)
+  - [CFW (Atmosphère)](#cfw-atmosphère)
 
 # Presentation
 First of all, we have to define and setup our working environment.<br>
@@ -51,12 +61,12 @@ It's **RECOMMENDED** to use it (if that's your actual OS), since the community m
 
 ## Switch emulator (Yuzu, Ryujinx...)
 
-# Nintendo Switch [optional]
+# Nintendo Switch [recommended]
 
-A Nintendo Switch is **recommended** but **optional**, since you can run and test your homebrews on emulators.<br>
+A Nintendo Switch is only **recommended** so it's **optional**, since you can run and test homebrews on emulators.<br>
 <br>
 It's recommended because:<br>
--real console is often the platforme where people will use your homebrews (that's better to test them on real hardware)<br>
+-that's better to test your homebrews on real hardware (real console is often the platform where people will use them)<br>
 -you need to own a Nintendo Switch to play copyrighted contents on emulators, since you need Switch keys to decrypt games (legaly obtainable by dumping them with [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) from your own device)
 
 ## CFW (Atmosphère)
