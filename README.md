@@ -7,6 +7,7 @@ If anyone find this notebook, fell free to use it however you want. ✍<br>
 <br>
 
 # 📖 Chapters
+- [0 - REQUIRMENTS](./notebook/000%20-%20REQUIRMENTS.md)
 - [I - ENVIRONMENT](./notebook/001%20-%20ENVIRONMENT.md)
 - ...
 
