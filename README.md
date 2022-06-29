@@ -7,7 +7,7 @@ If anyone find this notebook, fell free to use it however you want. ✍<br>
 <br>
 
 # 📖 Chapters
-- [I - ENVIRONMENT](./notebook/ENVIRONMENT.md)
+- [I - ENVIRONMENT](./notebook/001%20-%20ENVIRONMENT.md)
 - ...
 
 
