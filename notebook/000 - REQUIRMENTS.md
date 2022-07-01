@@ -18,7 +18,7 @@ More we will be far of this date, more it will be completed.<br>
 
 ## Dev for Nintendo Switch ?
 
-In first, you have to know: **dev isn't really different between computer and consoles.**<br>
+In first, you have to know something: **dev isn't really different between computers and consoles.**<br>
 **Write** a program, then **build** it to make it **readable** by a CPU.<br>
 <br>
 That's so close... that you can write a program for Windows and build it for Nintendo Switch (and invert).<br>
