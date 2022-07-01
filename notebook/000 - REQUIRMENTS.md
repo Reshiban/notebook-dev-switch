@@ -3,20 +3,26 @@
 # 📖 Chapters
 
 - [IN FIRST...](#in-first)
+  - [Welcome](#welcome)
+  - [Dev for Nintendo Switch ?](#dev-for-nintendo-switch-)
 
 
 # IN FIRST...
+
+## Welcome
 
 **Welcome to my notebook introduction !**<br>
 This book started in june 2022 📕<br>
 More we will be far of this date, more it will be completed.<br>
 <br>
-Are you actually a dev ? A simple user ?<br>
-Developpment is a different experience for everyone: some people will understand everything fast, others will be slower but with others quality...<br>
-Anyway one thing is sure: if you're really motivated, you'll be able to learn.<br>
+
+## Dev for Nintendo Switch ?
+
+In first, you have to know: **dev isn't really different between computer and consoles.**<br>
+**Write** a program, then **build** it to make it **readable** by a CPU.<br>
 <br>
-Also, remember something: **dev isn't really different for computer and Nintendo Switch.**<br>
-You'll have to adapt some things for the platform in the code, but the finality is the same: write a program, then build it to make it readable by a CPU.<br>
+That's so close... that you can write a program for Windows and build it for Nintendo Switch (and invert).<br>
+It usually needs some edits in the code, but that's possible.
 
 ----------------------
 
