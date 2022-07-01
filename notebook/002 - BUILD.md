@@ -11,7 +11,7 @@
 
 # I - Introduction
 
-Now that you've set your [ENVIRONMENT](./notebook/001%20-%20ENVIRONMENT.md) properly, it's time to test it.<br>
+Now that you've set your [ENVIRONMENT](./001%20-%20ENVIRONMENT.md) properly, it's time to test it.<br>
 We'll download existing source codes of NSwitch homebrews, then try to build them.
 
 ## What is build ?
